@@ -8,7 +8,7 @@ Since then I've taught myself how to code using free resources online (Udemy, FC
 
 I currently work at Salesforce as an IT Analyst. I’ve developed tools that help increase productivity for our global IT team (Techforce Innovation Program)
 
-I'm looking to transition into a full development role to gain further experience. 
+I'm looking to transition into a full development role to gain further experience and apply my skills. 
 
 Let's connect on [LinkedIn!](https://duckduckgo.com)
 
