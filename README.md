@@ -10,5 +10,5 @@ I currently work at Salesforce as an IT Analyst. I’ve developed tools that hel
 
 I'm looking to transition into a full development role to gain further experience. 
 
-You can reach me out on [LinkedIn!](https://duckduckgo.com)
+Let's connect on [LinkedIn!](https://duckduckgo.com)
 
