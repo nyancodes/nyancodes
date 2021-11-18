@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, my name is Nyan.</h1>
 
-- 🔭 I am a a Full Stack Developer at working for SlideFactory. [Github: nyansf] (https://github.com/nyansf
+- 🔭 I am a a Full Stack Developer at working for SlideFactory. [Github: nyansf] (https://github.com/nyansf)
 
 - 👨‍💻 All of my personal projects are available at [https://www.nyan.codes/](https://www.nyan.codes/)
 
