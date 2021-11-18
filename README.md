@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, my name is Nyan.</h1>
-<h3 align="center">A passionate developer from Myanmar, currently living in Oregon.</h3>
 
 - 🔭 I’m currently working on [PitchIn](https://github.com/nyancodes/pitchin)
 
