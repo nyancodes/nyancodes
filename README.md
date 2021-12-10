@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, my name is Nyan.</h1>
 
-- 🔭 I am a a Full Stack Developer at working for SlideFactory. 
+- I found my career in tech at a warehouse when I automated a labeling process. The inspiration developed from wanting to reduce the time of manually printing labels repetitively.
+
+- I’ve always had an interest in engineering but after being promoted to an IT Lead, I recognized my passion for problem solving.
+
+- Since then I've been on a continuous learning journey of software development. I've used resources online like Free Code Camp, Code Academy, and Udemy to teach myself to code. I also went through Springboard's Software Engineering Program to follow a structured curriculum and gain mentorship.
+
+- Currently, I'm working at SlideFactory as a full stack developer.
 
 - Here's my professional Github account: [nyansf](https://github.com/nyansf)
-
+ 
 - 👨‍💻 All of my personal projects are available at [https://www.nyan.codes/](https://www.nyan.codes/)
-
-- 📫 How to reach me **nyanhtet@yahoo.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
