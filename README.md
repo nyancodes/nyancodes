@@ -6,7 +6,9 @@
 
 - Since then I've been on a continuous learning journey of software development. I've used resources online like Free Code Camp, Code Academy, and Udemy to teach myself to code. I also went through Springboard's Software Engineering Program to follow a structured curriculum and gain mentorship.
 
-- Currently, I'm working at SlideFactory as a full stack developer.
+- After moving to Portland, I worked for the IT team of Salesforce (Techforce) Here, I was able to apply my coding knowledge and built productivity tools for the global IT team. 
+
+- Currently, I'm working at SlideFactory as a full stack developer working numerous technologies such as (JavaScript, Ruby on Rails, PHP etc.) 
 
 - Here's my professional Github account: [nyansf](https://github.com/nyansf)
  
