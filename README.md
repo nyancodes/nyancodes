@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, my name is Nyan.</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=33&color=000000&lines=%40nyancodes)](https://git.io/typing-svg)
 
-- I found my career in tech at a warehouse when I automated a labeling process. The inspiration developed from wanting to reduce the time of manually printing labels repetitively.
+# Nyan Lin Htet | Portland, OR | Developer | 
 
-- I’ve always had an interest in engineering but after being promoted to an IT Lead, I recognized my passion for problem solving.
+I found my career in programming at a warehouse after I automated a labeling process. 
 
-- Since then I've been on a continuous learning journey of software development. I've used resources online like Free Code Camp, Code Academy, and Udemy to teach myself to code. I also went through Springboard's Software Engineering Program to follow a structured curriculum and gain mentorship.
+Since then my curiosity and proactive thinking have driven me to become a full stack software developer. 
 
-- After moving to Portland, I worked for the IT team of Salesforce (Techforce) Here, I was able to apply my coding knowledge and built productivity tools for the global IT team. 
+My current tech stack is PostgreSQL, Express, React (Next.JS), Node.JS
 
-- Currently, I'm working at SlideFactory as a full stack developer working numerous technologies such as (JavaScript, Ruby on Rails, PHP etc.) 
+Here's my SlideFactory/Professional Github:
+https://github.com/nyansf
 
-- Here's my professional Github account: [nyansf](https://github.com/nyansf)
- 
-- 👨‍💻 All of my personal projects are available at [https://www.nyan.codes/](https://www.nyan.codes/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nyancodes&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
